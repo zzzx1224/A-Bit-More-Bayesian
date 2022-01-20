@@ -40,4 +40,4 @@ For evaluation of the trained model run the following:
 python pacs_test.py --test_domain cartoon --log_dir cartoon_model
 ```
 Change the target domain as the training phase.
-A trained model for cartoon domain is in `./logs/cartoon_model/`. Change the `cartoon_model` to other names to evaluate other trained models
+Change the `cartoon_model` to other names to evaluate other trained models

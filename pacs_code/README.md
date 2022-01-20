@@ -4,7 +4,6 @@ Code for paper "A Bit More Bayesian: Domain-Invariant Learning with Uncertainty"
 ### Prerequisites
  - Python 3.6.9
  - Pytorch 1.1.0
- - GPU: a single NVIDIA Tesla V100
 
 ### Components
  - `../kfold/`: Directory of images

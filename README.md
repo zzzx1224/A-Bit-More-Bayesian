@@ -1,5 +1,5 @@
 # A Bit More Bayesian: Domain-Invariant Learning with Uncertainty
-Code for paper "A Bit More Bayesian: Domain-Invariant Learning with Uncertainty" submitted to ICML 2021 with paper ID: 1295.
+Code for paper "A Bit More Bayesian: Domain-Invariant Learning with Uncertainty" submitted to ICML 2021.
 
 ### Prerequisites
  - Python 3.6.9
